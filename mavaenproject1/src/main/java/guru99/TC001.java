@@ -20,7 +20,6 @@ import java.util.Comparator;
 
 public class TC001 
 {
-	//commit ;kwrmgjlkrw
 	public ChromeDriver driver;
 	  private String baseUrl;
 	  public int scc = 0;
